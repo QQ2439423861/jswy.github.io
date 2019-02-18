@@ -1,8 +1,1 @@
-#include<common.h>
-int main()
-{
-	SystemInit();
-	SystemCoreClockUpdate();
-	DMAMUX->CHCFG[0]=DMAMUX_CHCFG_ENBL_MASK;
-	DMAMUX_CHCFG_ENBL_SHIFT
-}
+215
